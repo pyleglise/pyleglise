@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pyleglise
+- 👋 Hi, I’m Pierre-Yves Léglise
 - 👀 I’m interested in developping new skills
-- 🌱 I’m currently evolving in JavaScript and Python
+- 🌱 I’m currently evolving in Autoit, php, JavaScript and Python
 - 💞️ I’m looking to collaborate on any kind of project
 - 📫 How to reach me : contact@axialdata.net
 
