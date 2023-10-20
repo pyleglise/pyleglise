@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pierre-Yves Léglise
 - 👀 I’m interested in developping new skills
-- 🌱 I’m currently evolving in React.js, Javascript, Python, Php and Autoit
+- 🌱 I’m currently evolving in Next.js, React.js, Javascript, Python, Php and Autoit
 - 💞️ I’m looking to collaborate on any kind of project
 - 📫 How to reach me : contact@axialdata.net
 
