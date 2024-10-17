@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Pierre-Yves Léglise
+- I'm a freelance IT consultant and developper
 - 👀 I’m interested in developping new skills
 - 🌱 I’m currently evolving in Next.js, React.js, Javascript, Python, Php and Autoit
 - 💞️ I’m looking to collaborate on any kind of project
