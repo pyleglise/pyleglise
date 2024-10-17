@@ -36,6 +36,7 @@ Je suis un consultant en systèmes informatiques et développeur, passionné par
 
 ## 🎸 Projets personnels
 - **Musicien** : Guitariste, compositeur avec plusieurs albums en collaboration ou solo.
+- **Artisan Luthier** : Réparation et entretien de guitares, basses, ukulélé, banjo...
 
 ---
 
