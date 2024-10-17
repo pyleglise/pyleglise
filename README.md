@@ -18,7 +18,7 @@ Je suis un consultant en systèmes informatiques et développeur, passionné par
 
 ## 💼 Expériences professionnelles
 
-### AxialData (2022 - présent)
+### axialdata (2022 - présent)
 *Consultant SI - Développeur*  
 - Conseil, audit, développement de solutions sur mesure.
 - Accompagnement des entreprises pour améliorer l'efficacité de leurs outils.
