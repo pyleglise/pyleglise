@@ -16,6 +16,12 @@ Je suis un consultant en systèmes informatiques et développeur, passionné par
 
 ---
 
+## 🏆 Réalisations
+
+Retrouvez quelques unes de mes réalisations dans mon portfolio : https://www.axialdata.app/
+
+---
+
 ## 💼 Expériences professionnelles
 
 ### axialdata (2022 - présent)
